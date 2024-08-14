@@ -29,8 +29,9 @@ The dataset used for this project includes information about famous paintings, m
 - **work:** Metadata related to individual paintings.
   
 **Link of the dataset:** [Kaggle Dataset](https://www.kaggle.com/datasets/mexwell/famous-paintings?resource=download) 
+
 **Entity Relationship Diagram** 
-!(https://github.com/binoy-patra/Famous-Paintings-Analysis-with-SQL/blob/main/ERD.jpg)
+![Diagram](https://github.com/binoy-patra/Famous-Paintings-Analysis-with-SQL/blob/main/ERD.jpg)
 
 ### Tools
 
